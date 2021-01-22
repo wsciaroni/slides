@@ -15,4 +15,3 @@ isHTML = true
 [params.reveal_hugo]
 theme = "solarized"
 highlight_theme = "github"
-plugins = ["static/plugins/chalkboard/chalkboard.plugin.js"]
